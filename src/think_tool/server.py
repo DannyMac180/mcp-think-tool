@@ -19,7 +19,7 @@ class ThinkToolServer:
     def register_tools(self):
         # Register the think tool
         @self.mcp.tool()
-        async def think(thought: str) -> str:
+        async def think(thought: str="") -> str:
             """Use this tool to think about something. It will not obtain new information or change anything, 
             but just append the thought to the log. Use it when complex reasoning or cache memory is needed.
 
