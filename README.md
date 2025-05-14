@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dannymac180-mcp-think-tool-badge.png)](https://mseep.ai/app/dannymac180-mcp-think-tool)
+
 # MCP Think Tool Server
 
 A Model Context Protocol (MCP) server implementing the "think" tool for improving Claude's complex reasoning capabilities.
